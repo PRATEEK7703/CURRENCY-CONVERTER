@@ -1,0 +1,1 @@
+Using PyQT6 for graphic interface and scraping the currency values through BeautifulSoup
